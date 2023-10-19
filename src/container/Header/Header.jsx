@@ -3,7 +3,7 @@ import React from 'react';
 import { AppWrap } from '../../wrapper';
 import { motion } from "framer-motion";
 import './Header.scss';
-import { skills, images } from "../../constants";
+import { images } from "../../constants";
 
 const scaleVariants = {
     whileInView: {
