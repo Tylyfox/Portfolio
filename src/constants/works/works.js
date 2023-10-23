@@ -1,4 +1,5 @@
 import kit from '../../assets/videos/kit.mp4';
+import propar from "../../assets/videos/propar.mp4";
 
 import KIT from '../../assets/works/KIT.jpg';
 import GPT3 from '../../assets/works/gpt3.png';
@@ -6,6 +7,8 @@ import ADVICE from '../../assets/works/adviceGenerator.png';
 import QR from '../../assets/works/QRCode.png';
 import Rating from '../../assets/works/Rating.png';
 import Portfolio from '../../assets/works/Portfolio.png';
+import Propar from '../../assets/works/Propar.png';
+
 
 const works = [
     {
@@ -17,6 +20,16 @@ const works = [
         projectLink: '',
         githubLink: 'https://github.com/Tylyfox/bugs-squad-project-KIT',
         tags: ['Angular', 'Java', 'Web app', 'All']
+    },
+    {
+        name: 'Propar',
+        title: 'Propar',
+        description: "Application Web de gestion pour une société de nettoyage en Symfony : projet fil rouge de ma formation de développeur Web",
+        imgUrl: Propar,
+        videoUrl: propar,
+        projectLink: '',
+        githubLink: 'https://github.com/Tylyfox/propar',
+        tags: ['Symfony', 'PHP', 'Web app', 'All']
     },
     {
         name: 'Portfolio',
