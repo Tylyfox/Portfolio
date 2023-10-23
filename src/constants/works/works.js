@@ -1,5 +1,6 @@
 import kit from '../../assets/videos/kit.mp4';
 import propar from "../../assets/videos/propar.mp4";
+import greenride from '../../assets/videos/greenride.mp4';
 
 import KIT from '../../assets/works/KIT.jpg';
 import GPT3 from '../../assets/works/gpt3.png';
@@ -8,6 +9,7 @@ import QR from '../../assets/works/QRCode.png';
 import Rating from '../../assets/works/Rating.png';
 import Portfolio from '../../assets/works/Portfolio.png';
 import Propar from '../../assets/works/Propar.png';
+import GreenRide from '../../assets/works/GreenRide.png';
 
 
 const works = [
@@ -30,6 +32,16 @@ const works = [
         projectLink: '',
         githubLink: 'https://github.com/Tylyfox/propar',
         tags: ['Symfony', 'PHP', 'Web app', 'All']
+    },
+    {
+        name: 'GreenRide',
+        title: 'GreenRide',
+        description: "Application web de covoiturage en React et Symfony, API REST : implémentation connexion, création trajets. Projet pris en cours dans une équipe de développeurs dans un incubateur",
+        imgUrl: GreenRide,
+        videoUrl: greenride,
+        projectLink: '',
+        githubLink: 'https://github.com/Tylyfox/bugs-squad-project-KIT',
+        tags: ['React', 'Symfony', 'PHP', 'Web App', 'All']
     },
     {
         name: 'Portfolio',
