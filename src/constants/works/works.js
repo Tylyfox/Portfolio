@@ -51,7 +51,7 @@ const works = [
         videoUrl: '',
         projectLink: 'https://www.monportfoliovalentin.fr',
         githubLink: 'https://github.com/Tylyfox/Portfolio',
-        tags: ['React JS', 'All', 'UI/UX', 'Web App']
+        tags: ['React', 'All', 'UI/UX', 'Web App']
     },
     {
         name: 'GPT3-Angular',
