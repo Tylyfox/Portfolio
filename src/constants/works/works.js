@@ -5,6 +5,7 @@ import GPT3 from '../../assets/works/gpt3.png';
 import ADVICE from '../../assets/works/adviceGenerator.png';
 import QR from '../../assets/works/QRCode.png';
 import Rating from '../../assets/works/Rating.png';
+import Portfolio from '../../assets/works/Portfolio.png';
 
 const works = [
     {
@@ -16,6 +17,16 @@ const works = [
         projectLink: '',
         githubLink: 'https://github.com/Tylyfox/bugs-squad-project-KIT',
         tags: ['Angular', 'Java', 'Web app', 'All']
+    },
+    {
+        name: 'Portfolio',
+        title: 'Portfolio',
+        description: "Mon portfolio réalisé avec React JS",
+        imgUrl: Portfolio,
+        videoUrl: '',
+        projectLink: 'https://www.monportfoliovalentin.fr',
+        githubLink: 'https://github.com/Tylyfox/Portfolio',
+        tags: ['React JS', 'All', 'UI/UX', 'Web App']
     },
     {
         name: 'GPT3-Angular',
@@ -57,6 +68,7 @@ const works = [
         githubLink: 'https://github.com/Tylyfox/FrontEndMentor_Interactive-rating-component',
         tags: ['HTML/CSS/Javascript', 'All', 'UI/UX']
     },
+
 ]
 
 export default works;
