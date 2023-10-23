@@ -1,6 +1,7 @@
 import React from "react";
 import { motion } from "framer-motion";
 import { HiX } from "react-icons/hi";
+import ReactPlayer from "react-player";
 
 import "./VideoModal.scss";
 
@@ -41,9 +42,7 @@ const VideoModal = ({ isOpen, onClose, videoUrl, videoTitle }) => {
                 </div>
                 <div className="video-container" onClick={stopPropagation}>
                     {videoUrl && (
-                        <video controls width="640" height="360" style={videoStyle}>
-                            <source src={videoUrl} type="video/mp4" />
-                        </video>
+                        <ReactPlayer width="640px" height="360px" style={videoStyle} url={videoUrl} controls={true}/>
                     )}
                 </div>
             </motion.div>
