@@ -10,9 +10,19 @@ import Rating from '../../assets/works/Rating.png';
 import Portfolio from '../../assets/works/Portfolio.png';
 import Propar from '../../assets/works/Propar.png';
 import GreenRide from '../../assets/works/GreenRide.png';
-
+import JCPlomberie from '../../assets/works/JCPlomberie.png';
 
 const works = [
+    {
+        name: 'jc-plomberie',
+        title: 'jc-plombeire',
+        description: "Ce projet consistait à créer un site web moderne, fonctionnel et adapté aux besoins d’un plombier professionnel. L’objectif était de fournir une plateforme intuitive qui permette aux clients de découvrir facilement les services de plomberie offerts, de prendre contact rapidement et de consulter des informations utiles.",
+        imgUrl: JCPlomberie,
+        videoUrl: '',
+        projectLink: 'https://www.jc-plomberie.fr/',
+        githubLink: 'https://github.com/Tylyfox/JC-PLOMBERIE',
+        tags: ['React', 'Web App', 'All', 'UI/UX']
+    },
     {
         name: 'K.I.T.',
         title: 'K.I.T.',
@@ -92,8 +102,7 @@ const works = [
         projectLink: 'https://tylyfox.github.io/FrontEndMentor_Interactive-rating-component/',
         githubLink: 'https://github.com/Tylyfox/FrontEndMentor_Interactive-rating-component',
         tags: ['HTML/CSS/Javascript', 'All', 'UI/UX']
-    },
-
-]
+    }
+];
 
 export default works;
