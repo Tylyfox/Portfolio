@@ -1,5 +1,20 @@
 const experiences = [
     {
+        year: "2024",
+        works : [
+            {
+                name: "Développeur Web Full Stack",
+                company: "Flunch",
+                description: "Conception et développement de plusieurs API Rest avec Node.js, Express et PostgreSQL, déployées sur AWS et gérées via Azure DevOps. Utilisation de Gravitee et Nginx pour la gestion des API et la confi guration du serveur. Développement de fonctionnalités Front-end avec Vue.js en utilisant une architecture Backend-for-Frontend(BFF) pour une meilleure performance et optimisation des interactions.",
+            },
+            {
+                name: "Concepteur Développeur Web - NIVEAU 5",
+                company: "Wild Code School",
+                description: "Développement des compétences en ceonception de féveloppement web avec une approche full stack. Utilisation de Next.js, GraphQL, Node.js, Express et PostgreSQL. Mise en oeuvre de Docker pour la gestion des conteneurs et de Github Actions pour l'intégration et le déploiement continus. Développement d'une application de gestion de templates d'emails, incluant la création d'une architecture scalable et la gestion de la base de données."
+            }
+        ]
+    },
+    {
         year: "2023",
         works : [
             {

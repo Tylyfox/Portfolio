@@ -57,10 +57,10 @@ const Header = () => {
                     <div className="tag-cmp app__flex">
                         <h1 className="head-text">Développeur Full-Stack</h1>
                         <br/>
-                        <p className="p-text">Passionné par le développement web, je recherche une alternance en tant que concepteur développeur d'application, spécialisé en Node.js et React.</p>
-                        <p className="p-text">Diplômé en juin 2022 en tant que développeur Web Fullstack, j'ai récemment complété ma formation avec Angular et Spring Boot.</p>
-                        <p className="p-text"> Mon parcours m'a permis d'acquérir des compétences solides que je suis impatient de mettre en pratique.</p>
-                        <p className="p-text">Mon programme de formation à la Wild Code School est prévu du 13 novembre 2023 au 7 novembre 2024.</p>
+                        <p className="p-text">Développeur Full Stack animé par l'innovation et les défis techniques.</p>
+                        <p className="p-text">J'utilise Next.js, React, VueJS, Node.js, Express et GraphQL, en renforçant mes projets avec TypeScript et PostgreSQL.</p>
+                        <p className="p-text"> Grâce à Docker et AWS, mes applications sont prêtes pour le cloud.</p>
+                        <p className="p-text">Toujours curieux, j'aile transformer des idées en solutions performantes et m'adapter pour faire la différence au sein des équipes.</p>
                     </div>
                 </div>
             </motion.div>
