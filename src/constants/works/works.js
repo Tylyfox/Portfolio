@@ -15,7 +15,7 @@ import JCPlomberie from '../../assets/works/JCPlomberie.png';
 const works = [
     {
         name: 'jc-plomberie',
-        title: 'jc-plombeire',
+        title: 'jc-plomberie',
         description: "Ce projet consistait à créer un site web moderne, fonctionnel et adapté aux besoins d’un plombier professionnel. L’objectif était de fournir une plateforme intuitive qui permette aux clients de découvrir facilement les services de plomberie offerts, de prendre contact rapidement et de consulter des informations utiles.",
         imgUrl: JCPlomberie,
         videoUrl: '',
