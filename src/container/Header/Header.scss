@@ -96,10 +96,18 @@
     border-radius: 50%;
     background: var(--white-color);
     box-shadow: 0 0 20px rgba(0,0,0,0.1);
+    transition: 0.3s;
+    &:hover {
+      background-color: #FFD700;
+    }
 
-    img {
-      width: 60%;
-      height: 60%;
+     svg {
+        width: 60%;
+        height: 60%;
+       transition: 0.3s;
+      &:hover {
+        scale: 1.1;
+      }
     }
   }
   div:nth-child(1) {

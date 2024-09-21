@@ -4,6 +4,9 @@ import { AppWrap } from '../../wrapper';
 import { motion } from "framer-motion";
 import './Header.scss';
 import { images } from "../../constants";
+import { SiGraphql } from "react-icons/si";
+import { FaNodeJs } from "react-icons/fa";
+import { SiPostgresql } from "react-icons/si";
 
 const scaleVariants = {
     whileInView: {
@@ -41,10 +44,10 @@ const Header = () => {
                     whileInView={scaleVariants.whileInView}
                     className="app__header-circles"
                 >
-                    {[images.node, images.react, images.typescript].map((circle, index) => (
-                        <div className="circle-cmp app__flex" key={`circle-${index}`}>
-                            <img src={circle} alt="circle" />
-                        </div>
+                    {[<SiGraphql />, <FaNodeJs />, <SiPostgresql />].map((Icon, index) => (
+                      <div className="circle-cmp app__flex" key={`circle-${index}`}>
+                          {Icon}
+                      </div>
                     ))}
                 </motion.div>
             </div>

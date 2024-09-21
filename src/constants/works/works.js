@@ -11,8 +11,19 @@ import Portfolio from '../../assets/works/Portfolio.png';
 import Propar from '../../assets/works/Propar.png';
 import GreenRide from '../../assets/works/GreenRide.png';
 import JCPlomberie from '../../assets/works/JCPlomberie.png';
+import WildMail from '../../assets/works/WildMail.png';
 
 const works = [
+    {
+      name: 'WildMail',
+      title: 'WildMail',
+      description: 'WildMail est un projet de conception et développement d\'application en cours de création permettant la création de templates personnalisées et l\'envoi d\'emails automatisés. Construit avec TypeGraphQL, TypeORM, Node.js et Next.js, ce projet met l\'accent sur l\'efficacité et la flexibilité des communications par email, offrant une gestion optimisée des modèles d\'email et des envois',
+      imgUrl: WildMail,
+      videoUrl: '',
+      projectLink: 'https://staging.1123-jaune-5.wns.wilders.dev/',
+      githubLink: 'https://github.com/WildCodeSchool/2311-wns-jaune-wild-mail',
+      tags: ['React', 'Next.js', 'Web App', 'All', 'UI/UX', 'GraphQL', 'Node.js']
+    },
     {
         name: 'jc-plomberie',
         title: 'jc-plomberie',
