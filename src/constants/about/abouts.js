@@ -27,9 +27,9 @@ const abouts = [
         img: agile
     },
     {
-        title: 'Devops, Cloud',
+        title: "Devops, Cloud",
         description: "Expérience dans la mise en place de pipelines CI/CD, déploiement continu avec Github Actions, automatisation des tests, gestion de conteneurs Docker. Cloud avec Azure, AWS.",
-        image: devops
+        img: devops
     }
 ]
 
