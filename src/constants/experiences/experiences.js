@@ -1,5 +1,29 @@
 const experiences = [
-    {
+  {
+      year: "2024",
+      works : [
+          {
+              name: "Diplôme Concepteur Développeur d'Applications",
+              company: "Wild Code School",
+              description: "Formation complète en développement full-stack, incluant GraphQL, Next.js, Node.js, Express et PostgreSQL. Mise en œuvre de Docker pour la gestion des conteneurs et de GitHub Actions pour l'intégration et le déploiement continus.Projet : Développement d'une application de gestion de templates d'emails."
+          },
+          {
+              name: "Développeur Full Stack",
+              company: "Flunch",
+              description: "Participation à la transformation digitale et autonomisation du SI de Flunch\n" +
+                "dans le cadre de la séparation des différentes enseignes.Conception et mise en place d'une architecture Backend-for-Frontend (BFF)\n" +
+                "et création d'une application Flunch, avec intégration des pipelines CI/CD via\n" +
+                "AWS et Azure. Développement d'une nouvelle application Flunch depuis la conception de la\n" +
+                "base de données jusqu'à l’utilisation de services AWS (Lambdas, Step\n" +
+                "Functions, S3) pour des mises à jour régulières et automatisées.Participation au développement front-end d'une application avec Vue.js, en\n" +
+                "assurant une interface utilisateur fluide et réactive.Conception et gestion d'API REST avec Node.js, intégration de Gravitee pour\n" +
+                "l'administration et la sécurisation des API, et contribution à la migration des\n" +
+                "données d'Oracle vers PostgreSQL en étroite collaboration avec l'équipe des\n" +
+                "flux."
+          }
+      ]
+  },
+  {
         year: "2023",
         works : [
             {
