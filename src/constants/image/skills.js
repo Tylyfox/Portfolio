@@ -30,10 +30,10 @@ const skills = [
     {
         category: 'Langages de programmation',
         items: [
-            { name: 'Java', icon: FaJava, bgColor: '#007396' },
             { name: 'Node.JS', icon: SiNodedotjs, bgColor: '#F7DF1E' },
             { name: 'TypeScript', icon: SiTypescript , bgColor: '#3178C6'},
             { name: 'PHP', icon: SiPhp , bgColor: '#777BB4'},
+            { name: 'Java', icon: FaJava, bgColor: '#007396' }
         ],
     },
     {
@@ -50,8 +50,8 @@ const skills = [
     {
         category: 'Base de données',
         items: [
-            { name: 'MySQL', icon: SiMysql, bgColor: '#4479A1' },
             { name: 'PostgreSQL', icon: SiPostgresql, bgColor: '#336791' },
+            { name: 'MySQL', icon: SiMysql, bgColor: '#4479A1' }
         ],
     },
     {
