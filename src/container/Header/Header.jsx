@@ -78,7 +78,17 @@ const Header = () => {
               <div className="app__header-badge">
                   <div className="tag-cmp app__flex">
                       <h1 className="head-text">Développeur Full Stack</h1>
-                      <p className="p-text">Passionné par les technologies et les défis techniques, je suis constamment à la recherche de solutions optimisées et innovantes. Mon alternance m'a permis de renforcer mes compétences, autant en back-end qu'en front-end. Polyvalent et adaptable, j'aime collaborer au sein d'équipes pour transformer des idées en solutions concrètes.</p>
+                      <p className="p-text">
+                      👨‍💻 <strong>Développeur web Full Stack</strong>, motivé par l'idée de créer des solutions qui font avancer les choses et qui ont un véritable impact.
+                      </p>
+                      <br/>
+                      <p className='p-text'>
+                      Ce qui me distingue, ce n'est pas seulement <strong>ma curiosité insatiable</strong>, mais aussi <strong>ma capacité à m'intégrer dans une équipe</strong> 🤝, <strong>à écouter</strong> et à comprendre les besions 🛠️ pour concevoir des <strong>solutions utilises et significatives</strong>💡.
+                      </p>
+                      <br />
+                      <p>
+                      Avant de me lancer dans le développement, j'ai occupé des rôles où j'ai appris à proposer des <strong>solutions concrètes et efficaces</strong>, à prendre des <strong>responsabilités</strong>au sein d’équipes et à m’assurer que chaque projet apportait une réelle <strong>valeur ajoutée</strong> 📈, tant pour l'entreprise que pour les clients.
+                      </p>
                   </div>
               </div>
           </motion.div>
