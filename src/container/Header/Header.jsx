@@ -83,11 +83,11 @@ const Header = () => {
                       </p>
                       <br/>
                       <p className='p-text'>
-                      Ce qui me distingue, ce n'est pas seulement <strong>ma curiosité insatiable</strong>, mais aussi <strong>ma capacité à m'intégrer dans une équipe</strong> 🤝, <strong>à écouter</strong> et à comprendre les besions 🛠️ pour concevoir des <strong>solutions utilises et significatives</strong>💡.
+                      Ce qui me distingue, ce n'est pas seulement <strong>ma curiosité insatiable</strong>, mais aussi <strong>ma capacité à m'intégrer dans une équipe🤝, à écouter et à comprendre les besions 🛠️ pour concevoir des solutions utiles et significatives</strong>💡.
                       </p>
                       <br />
                       <p>
-                      Avant de me lancer dans le développement, j'ai occupé des rôles où j'ai appris à proposer des <strong>solutions concrètes et efficaces</strong>, à prendre des <strong>responsabilités</strong>au sein d’équipes et à m’assurer que chaque projet apportait une réelle <strong>valeur ajoutée</strong> 📈, tant pour l'entreprise que pour les clients.
+                      Avant de me lancer dans le développement, j'ai occupé des rôles où j'ai appris à proposer des <strong>solutions concrètes et efficaces</strong>, à prendre des <strong>responsabilités</strong> au sein d’équipes et à m’assurer que chaque projet apportait une réelle <strong>valeur ajoutée</strong> 📈, tant pour l'entreprise que pour les clients.
                       </p>
                   </div>
               </div>
