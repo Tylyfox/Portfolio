@@ -1,8 +1,8 @@
-import backend from '../../assets/about/backend.jpg';
-import frontend from '../../assets/about/frontend.jpg';
-import bdd from '../../assets/about/bdd.jpg';
-import agile from '../../assets/about/agile.jpg';
-import devops from '../../assets/about/devops.jpg';
+import backend from '../../assets/about/backend.webp';
+import frontend from '../../assets/about/frontend.webp';
+import bdd from '../../assets/about/bdd.webp';
+import agile from '../../assets/about/agile.webp';
+import devops from '../../assets/about/devops.webp';
 
 
 const abouts = [
