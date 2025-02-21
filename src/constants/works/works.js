@@ -4,7 +4,6 @@ import greenride from '../../assets/videos/greenride.mp4';
 
 import KIT from '../../assets/works/KIT.webp';
 import GPT3 from '../../assets/works/gpt3.webp';
-import Rating from '../../assets/works/Rating.webp';
 import Portfolio from '../../assets/works/Portfolio.webp';
 import Propar from '../../assets/works/Propar.webp';
 import GreenRide from '../../assets/works/GreenRide.webp';
