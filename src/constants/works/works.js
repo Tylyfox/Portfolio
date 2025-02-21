@@ -1,6 +1,6 @@
-import kit from '../../assets/videos/kit.mp4';
-import propar from "../../assets/videos/propar.mp4";
-import greenride from '../../assets/videos/greenride.mp4';
+import kit from '../../assets/videos/kit.webm';
+import propar from "../../assets/videos/propar.webm";
+import greenride from '../../assets/videos/greenride.webm';
 
 import KIT from '../../assets/works/KIT.webp';
 import GPT3 from '../../assets/works/gpt3.webp';
