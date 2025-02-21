@@ -2,16 +2,16 @@ import kit from '../../assets/videos/kit.mp4';
 import propar from "../../assets/videos/propar.mp4";
 import greenride from '../../assets/videos/greenride.mp4';
 
-import KIT from '../../assets/works/KIT.jpg';
-import GPT3 from '../../assets/works/gpt3.png';
-import ADVICE from '../../assets/works/adviceGenerator.png';
-import QR from '../../assets/works/QRCode.png';
-import Rating from '../../assets/works/Rating.png';
-import Portfolio from '../../assets/works/Portfolio.png';
-import Propar from '../../assets/works/Propar.png';
-import GreenRide from '../../assets/works/GreenRide.png';
-import JCPlomberie from '../../assets/works/JCPlomberie.png';
-import WildMail from '../../assets/works/WildMail.png';
+import KIT from '../../assets/works/KIT.webp';
+import GPT3 from '../../assets/works/gpt3.webp';
+import ADVICE from '../../assets/works/adviceGenerator.webp';
+import QR from '../../assets/works/QRCode.webp';
+import Rating from '../../assets/works/Rating.webp';
+import Portfolio from '../../assets/works/Portfolio.webp';
+import Propar from '../../assets/works/Propar.webp';
+import GreenRide from '../../assets/works/GreenRide.webp';
+import JCPlomberie from '../../assets/works/JCPlomberie.webp';
+import WildMail from '../../assets/works/WildMail.webp';
 
 const works = [
     {
