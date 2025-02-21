@@ -1,10 +1,10 @@
-import email from '../../assets/email.png';
-import mobile from '../../assets/mobile.png';
-import cv from '../../assets/cv.png';
+import email from '../../assets/email.webp';
+import mobile from '../../assets/mobile.webp';
+import cv from '../../assets/cv.webp';
 
-import profile from '../../assets/profile.png';
+import profile from '../../assets/profile.webp';
 import circle from '../../assets/circle.svg';
-import logo from '../../assets/logo.png';
+import logo from '../../assets/logo.webp';
 
 
 
