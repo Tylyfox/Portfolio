@@ -6,7 +6,7 @@ import { images } from "../../constants";
 import { SiGraphql } from "react-icons/si";
 import { FaNodeJs } from "react-icons/fa";
 import { SiPostgresql } from "react-icons/si";
-import { FaHandPeace } from "react-icons/fa"; // Nouvelle icône
+import { FaHandPeace } from "react-icons/fa";
 
 const scaleVariants = {
     whileInView: {
